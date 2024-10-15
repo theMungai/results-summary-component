@@ -37,6 +37,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.2);
 }
 
 
@@ -122,6 +123,17 @@ body{
     color: var(--light-red);
 }
 
+.memory-title{
+    color: var(--orangey-yellow);
+}
+
+.verbal-title{
+    color: var(--green-teal);
+}
+
+.visual-title{
+    color: var(--cobalt-blue);
+}
 
 button{
     background-color: var(--dark-gray-blue);
