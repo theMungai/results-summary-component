@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://github.com/theMungai/results-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://results-summary-component-two-coral.vercel.app/))
 
 ## My process
 
